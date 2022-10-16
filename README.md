@@ -12,7 +12,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedramnova&repo=github-readme-stats)](https://github.com/pedramnova/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedramnova)](https://github.com/pedramnova/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
