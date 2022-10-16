@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedramnova&show_icons=true&locale=en&layout=compact" alt="pedramnova" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedramnova&show_icons=true&locale=en" alt="pedramnova" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pedramnova&show_icons=true&locale=en" alt="pedramnova" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedramnova&" alt="pedramnova" /></p>
