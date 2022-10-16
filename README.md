@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img width="30px" heigth="30px" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"/>, I'm pedram ahmadi</h1>
 <h3 align="center">A passionate software engineer</h3>
-<img width=30 height=30 src="https://cdn.dribbble.com/users/5911/screenshots/1382887/media/070df3a16dbf50d45393f0749050427f.gif"></>
+<img width=30 height=30 src="https://cdn.dribbble.com/users/44253/screenshots/19002794/media/5d7df2dfc85600ffde9cf8410e90b601.png"></>
 
 
 
