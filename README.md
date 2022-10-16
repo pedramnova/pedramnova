@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img width="20px" heigth="20px" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"/>, I'm pedram ahmadi</h1>
+<h1 align="center">Hi <img width="40px" heigth="40px" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"/>, I'm pedram ahmadi</h1>
 <h3 align="center">A passionate software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedramnova&label=Profile%20views&color=0e75b6&style=flat" alt="pedramnova" /> </p>
