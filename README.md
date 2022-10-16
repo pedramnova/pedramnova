@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **novatech**
 
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedramnova)](https://github.com/pedramnova/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
